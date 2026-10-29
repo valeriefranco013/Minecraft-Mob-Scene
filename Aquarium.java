@@ -1,7 +1,7 @@
-
 import edu.cymbal.graphics.CanvasAPI;
 import edu.cymbal.graphics.Graphics;
 import edu.cymbal.graphics.PainterAPI;
+import java.awt.Color;
 
 public class Aquarium {
 
